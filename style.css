@@ -1,0 +1,490 @@
+body {
+    background-color: #bfcdb5;
+    font-family: 'Anybody', cursive;
+    margin: 0px;
+    width: 1600px;
+    position: absolute;
+}
+
+.b {
+    font-weight: bold;
+}
+
+.cs {
+    color: #1fc667;
+}
+
+#h11 {
+    line-height: 40.6px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#cr {
+    position: relative;
+    height: 180px;
+    width: 189px;
+    top: 440px;
+    left: 300px;
+}
+
+.navbar {
+    background-color: #135000;
+    width: 1600px;
+    height: 70px;
+    /* position: fixed; */
+}
+.no-list-style {
+    list-style: none;
+    float: right;
+
+}
+
+.no-list-style li {
+    margin-right: 60px;
+    font-size: 20px;
+}
+
+.no-list-style li a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-decoration: none;
+}
+
+.horizontal-list {
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.horizontal-list li {
+    display: inline-block;
+}
+
+
+.nav-menu li a {
+    transition: color 0.5s, border-bottom 4s;
+}
+
+.nav-menu li a:hover {
+    color: lightgrey;
+    border-bottom: 2px solid black;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: solid black;
+    color: white;
+    /* padding: 12px 30px; */
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
+.cen {
+    text-align: center;
+    top: 250px;
+    font-size: 200px;
+    font-family: 'Russo One', sans-serif;
+    position: relative;
+    color: #1c83dd;
+}
+
+.pg {
+    height: 670px;
+    width: 1600px;
+    margin: 0;
+    /* padding-top: 50px; */
+}
+
+hr {
+    color: white;
+    height: 3px;
+}
+
+/****************************************** page-1 *******************************/
+.pg1 {
+    /* background-color: red; */
+    /* background-color: #1fc667; */
+    margin: 0;
+    /* padding-top: 50px; */
+    height: 670px;
+    width: 1600px;
+}
+
+.pg1a {
+    height: 400px;
+    width: 500px;
+    margin-left: 150px;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 150px;
+    /* padding-bottom: 20px; */
+}
+
+.img1 {
+    /* height: 500px; */
+    width: 400px;
+    margin: 0 0 0 650px;
+    /* top: 100px; */
+    /* padding-bottom: 150px; */
+    position: relative;
+    bottom: 450px;
+    border: solid 50px white;
+    border-radius: 100px;
+}
+
+/* **************************************************************************** */
+
+/****************************************** page-2 *******************************/
+.pg2 {
+    /* background-color: red; */
+    margin: 0;
+    /* margin-top: 50px; */
+    background-color: #1fc667;
+    padding-top: 50px;
+    height: 715px;
+    width: 1600px;
+}
+
+.head2 {
+    font-size: 40px;
+    padding-left: 150px;
+    margin-top: 0px;
+    height: 0;
+}
+
+.pg2a {
+    position: relative;
+    /* position: absolute; */
+    margin-left: 0px;
+    left: 750px;
+    bottom: 10px;
+    line-height: 2.2em;
+    /* margin-left: 750px; */
+    /* position: absolute;
+    left: 800px;
+    top: 900px; */
+}
+
+.size {
+    font-size: 30px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    width: 600px;
+}
+
+/* **************************************************************************** */
+
+/****************************************** page-3 *******************************/
+.edu {
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 0;
+}
+
+.pg3 {
+    background-color: #1fc667;
+    margin: 0;
+    margin-top: 0px;
+    padding-top: 50px;
+    height: 670px;
+    width: 1600px;
+}
+
+.head3 {
+    font-size: 40px;
+    padding-left: 150px;
+    margin-top: 0px;
+}
+
+.pg3a {
+    margin-left: 750px
+        /* position: absolute;
+    left: 800px;
+    top: 1400px; */
+}
+
+.s1 {
+    font-size: 30px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    width: 600px;
+    margin-bottom: 10px;
+}
+
+/* **************************************************************************** */
+
+
+/****************************************** page-4 *******************************/
+.pg4 {
+    margin: 0;
+    padding-top: 50px;
+    height: 800px;
+    width: 1600px;
+    margin-bottom: 6px;
+    /* background-color: red; */
+}
+
+.head4 {
+    font-size: 40px;
+    padding-left: 150px;
+    margin-top: 0px;
+}
+
+.img1a {
+    /* width: 300px; */
+    border-radius: 30px;
+    position: relative;
+    padding-left: 0px;
+    /* left: 200px; */
+    left: 150px;
+    width: 400px;
+    top: 0px;
+    height: 400px;
+    bottom: 0px;
+    margin-bottom: 30px;
+}
+
+.img2 {
+    /* width: 300px; */
+    border-radius: 30px;
+    position: relative;
+    /* left: 350px; */
+    bottom: 200px;
+    width: 370px;
+    height: 450px;
+    left: 280px;
+}
+
+.img3 {
+    height: 450px;
+    width: 300px;
+    border-radius: 30px;
+    position: relative;
+    left: 350px;
+    bottom: 200px;
+}
+
+.txt {
+    position: relative;
+    font-size: 30px;
+    left: 290px;
+    text-align: center;
+    bottom: 150px;
+}
+
+/* ****************************************************************************/
+
+/****************************************** page-4 *******************************/
+
+.pgl {
+    background-color: #1fc667;
+    margin: 0;
+    padding-top: 50px;
+    height: 670px;
+    width: 1600px;
+}
+
+.fon {
+    font-size: 70px;
+    position: relative;
+    left: 100px;
+    top: 200px;
+}
+
+.NIT {
+    font-size: 30px;
+    position: relative;
+    left: 100px;
+    bottom: 190px;
+}
+
+.wh {
+    color: white;
+}
+
+.mail {
+    font-size: 20px;
+    /* height: 50px; */
+}
+
+.maila {
+    font-size: 30px;
+    /* height: 50px; */
+
+}
+
+.c a {
+    color: inherit;
+}
+
+/* .mai {
+    position: relative;
+    left: 800px;
+    bottom: 50px;
+}
+
+.web {
+    position: relative;
+    left: 800px;
+    bottom: 0px;
+    top: 40px;
+}
+
+.socials {
+    left: 800px;
+    top: 150px;
+} */
+.con {
+    position: relative;
+    left: 800px;
+    bottom: 50px;
+    /* line-height: 1.6em ; */
+}
+
+/* ****************************************************************************/
+
+.pgx {
+    margin: 0;
+    margin-top: 0px;
+    padding-top: 50px;
+    height: 670px;
+    width: 1600px;
+    /* background-color: #1fc667; */
+    /* background-color: red; */
+}
+
+.pgx1 {
+    margin: 0;
+    margin-top: 0px;
+    padding-top: 50px;
+    height: 720px;
+    width: 1600px;
+    background-color: #1fc667;
+    /* background-color: red; */
+}
+
+.cd {
+    /* text-decoration: underline; */
+    font-size: 50px;
+    padding-left: 150px;
+}
+
+.cf {
+    position: relative;
+    border: black 4px solid;
+    border-radius: 20px;
+    height: 350px;
+    width: 630px;
+    left: 750px;
+    bottom: 100px;
+}
+
+.cfr {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    left: 850px;
+    bottom: 75px;
+    font-size: 33px;
+}
+
+.cfd {
+    position: relative;
+    right: 700px;
+    top: 120px;
+}
+
+.cc {
+    position: relative;
+    border: black 4px solid;
+    border-radius: 20px;
+    height: 465px;
+    width: 630px;
+    left: 750px;
+    bottom: 38px;
+}
+
+.ccd {
+    position: relative;
+    bottom: 450px;
+}
+
+.ccr {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    left: 850px;
+    bottom: 15px;
+    font-size: 33px;
+}
+
+.work {
+    position: relative;
+    font-size: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    left: 150px;
+    bottom: 35px;
+}
+
+.prev {
+    position: relative;
+    width: 1450px;
+    bottom: 20px;
+    left: 28px;
+    border: black 4px solid;
+}
+
+.int {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    left: 5px;
+    top: 8px;
+    margin: 5px;
+}
+
+.purp {
+    background-color: #135000;
+    color: #ffffff;
+    height: 88px;
+    letter-spacing: 2px;
+}
+
+.des {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: 28px;
+    left: 40px;
+}
+
+.cprt {
+    position: relative;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: 12px;
+    left: 444px;
+}
+
+.icons {
+    position: relative;
+    left: 1250px;
+    bottom: 18px;
+}
+
+.icons1 {
+    position: relative;
+}
+
