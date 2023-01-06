@@ -4,6 +4,7 @@ body {
     margin: 0px;
     width: 1600px;
     position: absolute;
+    overflow-x :hidden;
 }
 
 .b {
